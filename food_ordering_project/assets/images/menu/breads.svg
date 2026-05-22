@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="38" fill="#fff0d6"/>
+  <ellipse cx="285" cy="218" rx="108" ry="72" fill="#e0a247" transform="rotate(-14 285 218)"/>
+  <ellipse cx="365" cy="218" rx="105" ry="69" fill="#f4be63" transform="rotate(12 365 218)"/>
+  <circle cx="302" cy="198" r="10" fill="#8f4a1f"/>
+  <circle cx="351" cy="238" r="9" fill="#8f4a1f"/>
+  <circle cx="387" cy="201" r="8" fill="#8f4a1f"/>
+  <path d="M205 316c68 34 166 38 236 0" stroke="#5a2a16" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <text x="320" y="374" fill="#4a2417" font-family="Georgia, serif" font-size="32" font-weight="700" text-anchor="middle">Breads</text>
+</svg>

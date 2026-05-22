@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="64" viewBox="0 0 220 64" role="img" aria-labelledby="title desc">
+  <title id="title">Taste of India logo</title>
+  <desc id="desc">A warm Indian restaurant logo with a spice bowl, steam, and Taste of India wordmark.</desc>
+  <defs>
+    <linearGradient id="bowl" x1="15" y1="47" x2="61" y2="21" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7A2E16"/>
+      <stop offset="0.5" stop-color="#C66A1D"/>
+      <stop offset="1" stop-color="#F5B84B"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="35" y1="10" x2="35" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFE0A3"/>
+      <stop offset="1" stop-color="#D99528"/>
+    </linearGradient>
+  </defs>
+  <rect width="220" height="64" rx="18" fill="#1A1511"/>
+  <circle cx="34" cy="32" r="24" fill="#2A2018"/>
+  <path d="M18 35h32c-.8 9.2-7.2 16-16 16s-15.2-6.8-16-16Z" fill="url(#bowl)"/>
+  <path d="M16 34c0-2.2 2-4 4.4-4h27.2c2.4 0 4.4 1.8 4.4 4s-2 4-4.4 4H20.4C18 38 16 36.2 16 34Z" fill="#F6C66B"/>
+  <path d="M26 27c-3.8-5.6 3.4-7.4 1-13" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M35 27c-4.4-6.2 4.4-8.2 1.2-15" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M44 27c-3.8-5.6 3.4-7.4 1-13" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M25 42h18" stroke="#4A2114" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+  <text x="70" y="30" fill="#FFE3AE" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700" letter-spacing=".2">Taste of India</text>
+  <text x="72" y="45" fill="#D99B3A" font-family="Arial, sans-serif" font-size="8.5" font-weight="700" letter-spacing="2.3">OUTLET KITCHEN</text>
+</svg>

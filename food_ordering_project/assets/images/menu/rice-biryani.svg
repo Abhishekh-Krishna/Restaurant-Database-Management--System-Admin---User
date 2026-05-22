@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="38" fill="#fff3dd"/>
+  <path d="M192 246h256c-11 70-60 105-128 105s-117-35-128-105Z" fill="#8d351a"/>
+  <ellipse cx="320" cy="246" rx="136" ry="44" fill="#f6c86e"/>
+  <path d="M220 228c60-52 145-54 200 0" stroke="#f7dc98" stroke-width="20" stroke-linecap="round"/>
+  <path d="M250 232l26-34M308 234l21-43M371 232l28-34" stroke="#c45f1e" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="278" cy="236" r="8" fill="#598a35"/>
+  <circle cx="350" cy="221" r="8" fill="#598a35"/>
+  <text x="320" y="374" fill="#4a2417" font-family="Georgia, serif" font-size="32" font-weight="700" text-anchor="middle">Rice &amp; Biryani</text>
+</svg>

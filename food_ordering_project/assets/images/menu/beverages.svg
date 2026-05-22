@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="38" fill="#fff4df"/>
+  <path d="M245 144h122l-18 174h-86l-18-174Z" fill="#d8842a"/>
+  <path d="M258 190h96l-12 102h-72l-12-102Z" fill="#ffd783"/>
+  <path d="M380 178c44-6 64 42 24 67-14 9-29 10-46 7" stroke="#7a2e16" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <path d="M278 119c-18-33 28-42 12-72M322 119c-18-33 28-42 12-72" stroke="#d99b3a" stroke-width="11" stroke-linecap="round" fill="none"/>
+  <text x="320" y="374" fill="#4a2417" font-family="Georgia, serif" font-size="32" font-weight="700" text-anchor="middle">Beverages</text>
+</svg>

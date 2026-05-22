@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="38" fill="#fff5e5"/>
+  <circle cx="320" cy="218" r="130" fill="#f2d28a"/>
+  <circle cx="320" cy="218" r="96" fill="#b9441f"/>
+  <path d="M246 218c34-30 108-35 148 0-30 37-111 42-148 0Z" fill="#ffcf76"/>
+  <circle cx="282" cy="196" r="15" fill="#ffd98f"/>
+  <circle cx="365" cy="236" r="16" fill="#ffd98f"/>
+  <path d="M215 323c70 32 151 37 221 0" stroke="#4a2417" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <path d="M262 119c20-29 89-31 116 0" stroke="#d99528" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <text x="320" y="374" fill="#4a2417" font-family="Georgia, serif" font-size="32" font-weight="700" text-anchor="middle">Main Course</text>
+</svg>

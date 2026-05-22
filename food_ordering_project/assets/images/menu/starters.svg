@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="38" fill="#fff2d9"/>
+  <circle cx="320" cy="218" r="128" fill="#f4c46a"/>
+  <circle cx="320" cy="218" r="92" fill="#7a2e16"/>
+  <circle cx="278" cy="195" r="34" fill="#e79433"/>
+  <circle cx="351" cy="184" r="32" fill="#f0a340"/>
+  <circle cx="374" cy="252" r="34" fill="#d66a1f"/>
+  <circle cx="296" cy="265" r="30" fill="#f1b156"/>
+  <path d="M196 322c86 42 183 42 248 0" stroke="#5a2a16" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <path d="M228 132c18-38 78-52 106-22 31-25 87-13 104 26" stroke="#d99b3a" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <text x="320" y="374" fill="#4a2417" font-family="Georgia, serif" font-size="32" font-weight="700" text-anchor="middle">Starters</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420">
+  <rect width="640" height="420" rx="38" fill="#fff1df"/>
+  <circle cx="278" cy="212" r="52" fill="#b75a23"/>
+  <circle cx="358" cy="212" r="52" fill="#c8692b"/>
+  <path d="M214 286c59 36 159 39 216 0" stroke="#5a2a16" stroke-width="14" stroke-linecap="round" fill="none"/>
+  <ellipse cx="320" cy="283" rx="132" ry="30" fill="#f4c46a"/>
+  <path d="M270 160c30-36 70-36 100 0" stroke="#d99b3a" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <text x="320" y="374" fill="#4a2417" font-family="Georgia, serif" font-size="32" font-weight="700" text-anchor="middle">Desserts</text>
+</svg>
